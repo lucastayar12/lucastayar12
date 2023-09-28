@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, bem-vem ao meu Perfil 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastayar12&show_icons=true&theme=transparent" />
 </a>
