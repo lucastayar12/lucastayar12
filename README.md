@@ -1,5 +1,10 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastayar12&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastayar12&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastayar12&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastayar12&layout=compact" />
+</a>
 
 <!--
 **lucastayar12/lucastayar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
