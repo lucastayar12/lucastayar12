@@ -1,4 +1,5 @@
-### Olá, bem-vindo ao meu Perfil 👋
+### Olá, bem-vindo ao meu Perfil, eu sou Lucas Tayar Alvarenga Cunha👋
+### Sou desenvolvedor Fullstack em Angular | Kotlin Jetpack Compose | Java Spring Boot
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastayar12&show_icons=true&theme=transparent" />
 </a>
