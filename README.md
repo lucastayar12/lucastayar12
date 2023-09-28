@@ -1,5 +1,5 @@
 ### Olá, bem-vindo ao meu Perfil, eu sou Lucas Tayar Alvarenga Cunha👋
-### Sou desenvolvedor Fullstack em Angular | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> Kotlin Jetpack Compose | Java Spring Boot
+### Sou desenvolvedor Fullstack em Angular <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> |  Kotlin Jetpack Compose <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> | Java Spring Boot
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastayar12&show_icons=true&theme=transparent" />
 </a>
