@@ -16,14 +16,6 @@
 
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></p> 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastayar12&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastayar12&layout=compact&theme=transparent" />
-</a>
-
 <!--
 **lucastayar12/lucastayar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
